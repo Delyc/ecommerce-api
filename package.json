@@ -4,7 +4,6 @@
   "description": "exclsv backend api",
   "main": "index.js",
   "repository": "https://github.com/edson-pro/exclsv.git",
-  "author": "ntwali edson",
   "license": "MIT",
   "private": true,
   "scripts": {
